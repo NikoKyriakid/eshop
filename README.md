@@ -5,6 +5,7 @@
 1. Download the repository
 ```bash
 git clone https://github.com/NikoKyriakid/eshop.git
+cd eshop
 ```
 
 
