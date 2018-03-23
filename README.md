@@ -7,9 +7,15 @@
 git clone https://github.com/NikoKyriakid/eshop.git
 ```
 
-2. Run this command to bundle and build the application
+
+2. Install all the dependencies
+```bash
+npm install
+```
+
+3. Run this command to bundle and build the application
 ```bash
 npm start
 ```
 
-3. Open Chrome or any other browser and go to `http://localhost:3000/`
+4. Open Chrome or any other browser and go to `http://localhost:3000/`
