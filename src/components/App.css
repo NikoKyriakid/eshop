@@ -1,0 +1,79 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+#app {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.filter {
+  border: solid 1px rgb(117, 117, 117);
+  box-sizing: border-box;
+  float: left;
+  width: 10em;
+}
+
+.filter__box__list {
+  margin: 0;
+  padding: 1em;
+  list-style: none;
+  padding-left: 20px;
+  overflow: hidden;
+  font-size: 1rem;
+  font-family: inherit;
+}
+
+.filter__box__list li{
+  text-decoration: none;
+  color: #333;
+  margin-bottom: 12px;
+  font-size: 11px;
+  line-height: 1.4em;
+  overflow: hidden;
+  display: block;
+  margin-bottom: -3px;
+  margin-top: -3px;
+  letter-spacing: 0px;
+  text-align: left;
+  text-transform: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0px;
+  list-style: none;
+  margin: 0;
+}
+
+.filter__box__list li:before {
+  width: 10px;
+  height: 10px;
+  margin-bottom: 5px;
+  margin-top: 3px;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.lister {
+  width: 75%;
+  float: right;
+  box-sizing: border-box;
+}
+
+.lister .lister__item {
+  list-style: none;
+  float: left;
+  text-align: center;
+  border: 1px solid #eee;
+  margin-bottom: 1em;
+}
+
+.caption {
+  display: block;
+  background: #eee;
+}
