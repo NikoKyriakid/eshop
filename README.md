@@ -8,6 +8,9 @@
 ```bash
 git clone https://github.com/NikoKyriakid/eshop.git
 cd eshop
+
+# Run this to test the newer version, I used a couple of extra hours on Sunday to improve it.
+git checkout master_v1.0
 ```
 
 
