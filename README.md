@@ -5,6 +5,7 @@
 ```bash
 git clone https://github.com/NikoKyriakid/eshop.git
 cd eshop
+git checkout master_v1.0
 ```
 
 
