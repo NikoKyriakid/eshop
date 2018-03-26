@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 import VisibleProductList from './VisibleProductList'
 import Filter from './Filter'
+import 'normalize.css';
 import './App.css';
 
 
