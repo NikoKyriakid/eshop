@@ -1,6 +1,8 @@
 ## e-shop using React, Redux, Webpack, and Pug
 
 
+**EDIT:**  Please use the updated version https://github.com/NikoKyriakid/eshop/tree/master_v1.0
+---
 
 1. Download the repository
 ```bash
