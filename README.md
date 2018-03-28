@@ -1,13 +1,10 @@
 ## e-shop using React, Redux, Webpack, and Pug
 
-
 1. Download the repository
 ```bash
 git clone https://github.com/NikoKyriakid/eshop.git
 cd eshop
-git checkout master_v1.0
 ```
-
 
 2. Install all the dependencies
 ```bash
