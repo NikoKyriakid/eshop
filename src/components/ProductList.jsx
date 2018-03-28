@@ -16,7 +16,7 @@ class ProductList extends Component {
 
 		return (
 			<div className='lister'>
-				<ul>{rows}</ul>
+				<ul className='lister_inner'>{rows}</ul>
 			</div>
 		);
 	  }

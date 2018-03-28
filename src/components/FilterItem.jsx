@@ -13,7 +13,7 @@ class FilterItem extends Component {
 		const { children, onClick } = this.props
 		return (
 			<li onClick={onClick} className='filter-item'>
-				<input type="checkbox" name="name"/>
+				<input type="checkbox" name={children}/>
 				{children}
 			</li>
 		)
